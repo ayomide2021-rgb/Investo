@@ -1,5 +1,9 @@
 /* FIRST SECTION */
 @media (max-width: 393px){
+    div>.first-section {
+        margin: 10px !important;
+    }
+    
     div>.first-section>.col1>.Row3>.first,.second {
         width: 40%;
     }
